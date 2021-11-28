@@ -1,6 +1,6 @@
 # IT-Planet-Part1
 
-The first part of the International Olympiad IT Planet, OCR
+The first part of the International Olympiad IT Planet, OCR (Spring 2021)
 
 At this stage of the competition, it is necessary to develop a model that could extract certain features from the scanned document.
 
